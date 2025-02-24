@@ -7,7 +7,7 @@ public class Garazs implements Iterable{
     private HashSet<Jarmu> ferohely;
 
 
-
+    //VÉGE
     public Garazs(HashSet<Jarmu> ferohely) {
         this.ferohely = new HashSet<>(5);
         //ferohely.add();

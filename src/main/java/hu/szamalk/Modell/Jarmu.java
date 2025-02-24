@@ -1,7 +1,7 @@
 package hu.szamalk.Modell;
 
 import java.util.UUID;
-
+//VÉGE
 public class Jarmu implements Cloneable{
     private UUID id;
     private String szin;

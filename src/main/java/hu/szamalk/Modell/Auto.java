@@ -1,5 +1,5 @@
 package hu.szamalk.Modell;
-
+//VÉGE
 public class Auto {
     private int ferohely, ar;
     private String rendszam;
